@@ -58,8 +58,8 @@
 
 ## 📸 Preview
 
-> Add your branding image or screenshots here
-> (highly recommended for GitHub)
+<img width="1098" height="948" alt="image" src="https://github.com/user-attachments/assets/6533f43b-5e5e-4f13-abd1-55bca64c73bc" />
+
 
 ---
 
@@ -153,9 +153,3 @@ Use responsibly.
 
 **System32**
 GitHub: https://github.com/SYSTEM32-ERROR
-
----
-
-## 📄 License
-
-MIT License
