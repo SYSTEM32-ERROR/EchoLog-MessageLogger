@@ -1,4 +1,5 @@
-<img width="1098" height="948" alt="image" src="https://github.com/user-attachments/assets/b75a9870-441d-4b82-a599-b268d4ed93e3" />
+<img width="1191" height="567" alt="EchoLog Banner" src="https://github.com/user-attachments/assets/b1c307a6-5344-4951-b17b-c064e5528345" />
+
 
 
 ---
