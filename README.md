@@ -1,3 +1,4 @@
+STILL WORKING ON PROJECT 02/05/2026
 <img width="1191" height="567" alt="EchoLog Banner" src="https://github.com/user-attachments/assets/b1c307a6-5344-4951-b17b-c064e5528345" />
 
 
