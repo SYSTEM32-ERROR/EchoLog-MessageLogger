@@ -58,7 +58,7 @@ STILL WORKING ON PROJECT 02/05/2026
 
 ## 📸 Preview
 
-<img width="1098" height="948" alt="image" src="https://github.com/user-attachments/assets/6533f43b-5e5e-4f13-abd1-55bca64c73bc" />
+<img width="1097" height="950" alt="image" src="https://github.com/user-attachments/assets/be7d82e1-42de-4250-8fbe-0d7a08aaf6e0" />
 
 
 ---
